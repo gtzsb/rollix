@@ -1,0 +1,82 @@
+{
+  "fill": {
+    "automatic-gradient": "extended-srgb:0.07000,0.11000,0.24000,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "glass": false,
+          "image-name": "4-number.svg",
+          "name": "4-number"
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0
+      }
+    },
+    {
+      "layers": [
+        {
+          "glass": true,
+          "image-name": "3-face.svg",
+          "name": "3-face"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": false,
+        "value": 0
+      }
+    },
+    {
+      "layers": [
+        {
+          "glass": true,
+          "image-name": "2-sides.svg",
+          "name": "2-sides",
+          "opacity": 0.6
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.4
+      }
+    },
+    {
+      "layers": [
+        {
+          "glass": true,
+          "image-name": "1-body.svg",
+          "name": "1-body",
+          "opacity": 0.25
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ]
+  }
+}

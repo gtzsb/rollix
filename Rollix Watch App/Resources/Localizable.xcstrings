@@ -1,0 +1,105 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Confetti" : {
+      "comment" : "Settings toggle: shows confetti when a die lands on its highest face.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confettis"
+          }
+        }
+      }
+    },
+    "Dice Style" : {
+      "comment" : "Settings picker title: how the dice are drawn (Minimal or Shaded).",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Style des dés"
+          }
+        }
+      }
+    },
+    "Minimal" : {
+      "comment" : "Dice style option: a flat silhouette with a large value.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimaliste"
+          }
+        }
+      }
+    },
+    "Rolled %lld" : {
+      "comment" : "VoiceOver value of the die after a roll. The argument is the rolled value.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Résultat : %lld"
+          }
+        }
+      }
+    },
+    "Rolls the %@" : {
+      "comment" : "VoiceOver hint of the die button. The argument is the die name in dice notation, such as d20.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lance le %@"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "comment" : "Title of the settings button and of the settings screen.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
+          }
+        }
+      }
+    },
+    "Shaded" : {
+      "comment" : "Dice style option: shaded facets that give the die some volume.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ombré"
+          }
+        }
+      }
+    },
+    "Shake to Roll" : {
+      "comment" : "Settings toggle: rolls the die when the wrist is shaken.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secouer pour lancer"
+          }
+        }
+      }
+    },
+    "Sounds & Haptics" : {
+      "comment" : "Settings toggle: turns sound effects and haptic feedback on or off together.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sons et vibrations"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}
